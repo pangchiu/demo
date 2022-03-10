@@ -13,6 +13,17 @@ public class Main {
     }
     
     
+    public void yeu()
+    {
+     for(int i = 0;i < 80; i ++ ) {
+            System.out.println("em yêu anh");
+
+        }
+    
+    
+    }
+    
+    
     public void ghet() {
       for(int i = 0;i < 80; i ++ ) {
             System.out.println("em yêu anh");
