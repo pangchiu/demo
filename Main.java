@@ -10,7 +10,7 @@ public class Main {
 
 
         for(int i = 0;i < 80; i ++ ) {
-            System.out.println("anh yêu em");
+            System.out.println("em yêu anh");
 
         }
     }
