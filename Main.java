@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
     
-    public void yeu()
+    public void yeu(int a, int b, int c,int a, int b, int c,int a, int b, int c,int a, int b, int c,int a, int b, int c,int a, int b, int c,int a, int b, int c,int a, int b, int c,int a, int b, int c,int a, int b, int c,int a, int b, int c,)
     {
      for(int i = 0;i < 80; i ++ ) {
             System.out.println("em yêu anh");
